@@ -1,4 +1,4 @@
-###Blender python scripts: Bevel2D, create a rounded (bevelled) corner from three points in 3D space  
+### Blender python scripts: Bevel2D, create a rounded (bevelled) corner from three points in 3D space  
 
 bevel2d: function, code that may be used in different scenarios  
 b2d_demo: function demo, code used in the video presentation  
