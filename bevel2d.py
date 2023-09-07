@@ -31,7 +31,7 @@ from mathutils import Matrix, Quaternion, Vector
 def bevel_2d(a, b, c, segs, offset):
     # return bevel points [list of Vector]
     # - a, b, c : mathutils Vector objects (a is the intersection point)
-    # - segs : int > 1
+    # - segs : int > 0
     # - offset : float > 0
 
     # the sides of interest
